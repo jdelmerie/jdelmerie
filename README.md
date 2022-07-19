@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Delmerie JOHN ROSE 👋
 
 <!--
 **jdelmerie/jdelmerie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
