@@ -95,18 +95,5 @@
 
 <br/>  
 
-
-## Spotify Listening  
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31jf3nhkcgitckt5bnnluz7f3q6u&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
