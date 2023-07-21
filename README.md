@@ -4,16 +4,6 @@
   
 
 ### <div align="center">I'm Delmerie John Rose, a passionate full stack developer based in Toulouse, France </div>  
-  
-
-- 🔭 I’m currently working on a  personal projects such a **[Super Hotel](https://github.com/jdelmerie/super-hotel.fr)**  
-  
-
-- 🌱 I’m currently learning **Angular**  
-  
-
-- 👨‍💻 Much of my projects are available on my **[portofolio ](https://delmerie.fr/)**   
-  
 
 <br/>  
 
